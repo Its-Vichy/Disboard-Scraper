@@ -1,7 +1,7 @@
 <h1 align="center">Disboard-Scraper</h1>
 
 <p align='center'>
-    <b>Threaded Scraper to get discord servers from [disboard.org](https://disboard.org) written in python3.</b><br>
+    <b>Threaded Scraper to get discord servers from disboard.org written in python3.</b><br>
     <br>
     <img src='https://monashdatafluency.github.io/python-web-scraping/images/request.png'>
 </p>
