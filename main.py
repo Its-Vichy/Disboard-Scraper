@@ -1,6 +1,7 @@
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
+from colorfull import init; init()
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import requests, os, threading
